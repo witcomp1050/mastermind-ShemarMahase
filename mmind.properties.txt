@@ -1,0 +1,5 @@
+# Mastermind Properties File (mmind.properties)
+codeSize = 4
+codePegRows = 10
+dupsAllowedInCode = true
+blanksAllowedInCode = false
